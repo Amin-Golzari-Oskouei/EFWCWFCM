@@ -1,4 +1,4 @@
-# CCluster-Weight and Maximum-Entropy-Regularized Feature-Weight learning in Fuzzy Clustering
+# Cluster-Weight and Maximum-Entropy-Regularized Feature-Weight learning in Fuzzy Clustering
 
 The Source Code includes the Matlab implementation of the EFWCWFCM algorithm presented in:
 
